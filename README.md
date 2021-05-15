@@ -17,3 +17,7 @@ For example let's say Dani isn't in class. So let's set his value to false.
 And now the magic is happening once you refresh the page!
 <br>
 ![image](https://user-images.githubusercontent.com/34915099/118353719-e26d3980-b567-11eb-853e-5015abb2e9d6.png)
+
+# If you are a lazy bum 
+Or just take a look at my GitHub page however, without a server set up there is no magic!
+https://kimono-k.github.io/Kimono-Attendance-List/
