@@ -17,7 +17,7 @@ For example, let's say Dani is in class, so let's set his value to true!
 
 And now the magic is happening once you refresh the page!
 <br>
-![image](https://user-images.githubusercontent.com/34915099/118353719-e26d3980-b567-11eb-853e-5015abb2e9d6.png)
+![image](https://user-images.githubusercontent.com/34915099/118362713-f1b4ad00-b590-11eb-8f0f-ad35dfad736a.png)
 
 # If you are a lazy bum 
 Or just take a look at my GitHub page however, without a server set up there is no magic!
