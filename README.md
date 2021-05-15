@@ -7,11 +7,12 @@ You can modify someone's attendence in the classmates.json file, just try it :)
 3) Open classmates.json and set the atSchool to false for example.
 4) See how the CSS changes based on the true and false value!
 
-![image](https://user-images.githubusercontent.com/34915099/118353653-9c17da80-b567-11eb-9b8d-a93769310c3b.png)
+![image](https://user-images.githubusercontent.com/34915099/118362507-0e9cb080-b590-11eb-8698-cecef54e95de.png)
 
-For example, let's say Dani isn't in class. So let's set his value to false.
+For example, let's say Dani is in class, so let's set his value to true!
 <br>
-![image](https://user-images.githubusercontent.com/34915099/118353714-db462b80-b567-11eb-9362-6e69d195e45c.png)
+![image](https://user-images.githubusercontent.com/34915099/118362518-1bb99f80-b590-11eb-9e1c-4fe39e0562aa.png)
+
 
 
 And now the magic is happening once you refresh the page!
